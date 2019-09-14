@@ -77,6 +77,13 @@ hr {
   padding-bottom: 20px;
   padding-right: 20px;
 }
+
+.paper-image-max {
+  width: 100%;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
 .logo-image {
   height: 40px;
   max-width: 100%;
@@ -112,3 +119,9 @@ hr {
 .about {
   margin-bottom: 10px;
 }
+
+.counter{
+	width: 200px;
+}
+
+
